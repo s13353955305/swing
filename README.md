@@ -1,4 +1,0 @@
-swing
-=====
-
-my java swing
